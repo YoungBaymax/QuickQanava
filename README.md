@@ -1,3 +1,4 @@
+可用于开发深度学网络结构的设计
 # QuickQanava 
 
 ![Build Status Ubuntu](https://github.com/cneben/QuickQanava/actions/workflows/build-quickqanava.yml/badge.svg)
